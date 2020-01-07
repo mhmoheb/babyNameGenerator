@@ -1,3 +1,4 @@
+#This project create baby name based on vowels, consonants, lowercase letter
 import random, string
 
 letter_input_1 = input('Choose a letter..."v" for vowels, "c" for consonants, "l" for any other letter')
